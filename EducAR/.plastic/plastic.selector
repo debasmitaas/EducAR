@@ -1,0 +1,4 @@
+repository "EducAR 2025-01-03_12-40-37/EducAR_new@13469779699865@cloud"
+  path "/"
+    br "/main"
+    co "/main"
